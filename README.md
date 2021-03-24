@@ -1,0 +1,2 @@
+# informatica
+clase informatica
